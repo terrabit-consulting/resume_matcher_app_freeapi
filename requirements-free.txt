@@ -1,4 +1,0 @@
-streamlit
-requests
-pdfminer.six
-python-docx
