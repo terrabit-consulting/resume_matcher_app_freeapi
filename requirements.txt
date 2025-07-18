@@ -1,4 +1,4 @@
-openai
 streamlit
+requests
+pdfminer.six
 python-docx
-PyPDF2
